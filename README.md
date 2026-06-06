@@ -1,63 +1,99 @@
-# Hi 👋, I'm channu  Koudge
+# Hi 👋, I'm Channu Koudge
 
-### Electronics & Communication Engineering Student | Android Developer
+### Electronics & Communication Engineering Student | Java Full Stack Developer
 
-🌱 Currently learning Android Development, Java, and Software Engineering
+💻 Passionate about building scalable web applications and continuously learning modern Java technologies.
 
-💻 Passionate about building mobile applications and solving real-world problems through technology.
+🌱 Currently exploring Spring Framework, Backend Development, and Full Stack Application Architecture.
 
 ## 🚀 About Me
 
-* 🎓 Electronics and Communication Engineering Student
-* 📱 Android App Developer
-* ☕ Working with Java and Android Studio
-* 🔧 Interested in Mobile Development and Software Engineering
-* 📚 Continuously learning new technologies
+* 🎓 Electronics & Communication Engineering Student
+* ☕ Java Full Stack Developer
+* 🌐 Interested in Web Application Development
+* 📚 Strong foundation in Core Java and Advanced Java
+* 🔍 Enthusiastic about learning modern backend technologies and software engineering practices
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
 * Java
-* C
-* C++
+* Basic python
 
-### Mobile Development
+### Core & Advanced Java
 
-* Android Studio
-* XML
-* Android SDK
+* Object-Oriented Programming (OOP)
+* Collections Framework
+* Exception Handling
+* Multithreading
+* JDBC
+* Servlets
+* JSP
 
-### Tools & Technologies
+### Backend Technologies
+
+* Spring Framework
+* Spring Boot
+* REST APIs
+* MVC Architecture
+
+### Database
+
+* MySQL
+* SQL
+* JDBC Connectivity
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+
+### Tools & Platforms
 
 * Git
 * GitHub
-* Firebase
-* SQLite
+* Postman
+* Eclipse IDE
+* VS Code
 
 ## 📂 Featured Projects
 
-### BMI Calculator App
+### E-Commerce Web Application
 
-Android application for calculating BMI with a clean and user-friendly interface.
+Developed a web-based e-commerce application implementing Java Full Stack technologies with database integration and user management features.
 
-### Age Calculator
+### Student Management System
 
-Android application that calculates age accurately based on user input.
+Built a CRUD-based application using Java, JDBC, Servlets, JSP, and MySQL for managing student records.
 
-### Unit Converter App
+### Employee Management System
 
-Multi-purpose converter supporting area, time, and data conversions.
+Designed a full-stack web application with database connectivity and role-based operations.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chauu-koudge\&show_icons=true\&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chauu-koudge\&layout=compact)
+
+## 🎯 Current Learning Goals
+
+* Spring Boot Microservices
+* Spring Security
+* Hibernate & JPA
+* Design Patterns
+* Data Structures & Algorithms
+* System Design Fundamentals
 
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/YOUR_USERNAME
 * LinkedIn: Add Your LinkedIn Profile
 
-⭐ Thanks for visiting my profile!
+### 💡 Developer Quote
+
+> "First, solve the problem. Then, write the code."
+
+⭐ Thank you for visiting my profile. Feel free to explore my repositories and connect with me!
