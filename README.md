@@ -89,8 +89,10 @@ Designed a full-stack web application with database connectivity and role-based 
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: Add Your LinkedIn Profile
+* GitHub: https://github.com/Chauu-koudge
+* LinkedIn: www.linkedin.com/in/channabasava-koudge-97406a281
+
+
 
 ### 💡 Developer Quote
 
